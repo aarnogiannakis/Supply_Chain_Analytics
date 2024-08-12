@@ -1,6 +1,6 @@
 # Optimization of Facility Locations and Technician Routing
 
-This repository contains all the code, data and documentation for a two-part project aimed at enhancing operational efficiency for Company A. The project focuses on strategic optimization of facility locations and efficient routing of technicians within City AB.
+This repository contains all the code and documentation for a two-part project aimed at enhancing operational efficiency for Company A. The project focuses on strategic optimization of facility locations and efficient routing of technicians within City AB.
 
 **Project Overview**
 
