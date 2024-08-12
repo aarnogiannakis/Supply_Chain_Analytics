@@ -13,7 +13,7 @@ The first part of the project is dedicated to optimizing the distribution of Com
 The second part addresses the logistical challenge of routing technicians to provide repair services to private customers in City AB. This component models a typical Vehicle Routing Problem (VRP) where technicians depart from a central distribution center and serve multiple customers without the need to return to the base between visits. The constraints of the problem include repair time per customer, the technician's maximum working hours, and the non-restrictive capacity of their vans.
 
 **Assumptions**
-Part 1:
+
 1) The distance from a service center to a customer is equal to the great circle distance between the locations
 
 2) Company A uses a per kilometer transportation cost of 10$.
