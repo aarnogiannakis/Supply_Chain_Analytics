@@ -1,4 +1,4 @@
-# Supply_Chain_Analytics
+# Optimization of Facility Locations and Technician Routing for Company A
 
 This repository contains all the code, data, and documentation for a two-part project aimed at enhancing operational efficiency for Comma Computing. The project focuses on strategic optimization of facility locations and efficient routing of technicians within Zürich.
 
